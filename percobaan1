@@ -1,0 +1,42 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apple Watch Series 9</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="apple-watch-series-9-logo.png" alt="Apple Watch Series 9 Logo" class="logo">
+    </header>
+    <section class="hero">
+        <h1>Introducing Apple Watch Series 9</h1>
+        <p>The future of health on your wrist.</p>
+        <a href="#" class="cta-button">Learn More</a>
+    </section>
+    <section class="features">
+        <h2>Features</h2>
+        <div class="feature-item">
+            <h3>Innovative Health Features</h3>
+            <p>Track your health more precisely with new sensors and apps.</p>
+        </div>
+        <div class="feature-item">
+            <h3>Seamless Connectivity</h3>
+            <p>Stay connected to what matters most, right from your wrist.</p>
+        </div>
+        <div class="feature-item">
+            <h3>Personalized Watch Faces</h3>
+            <p>Customize your watch face to fit your style.</p>
+        </div>
+    </section>
+    <section class="testimonials">
+        <h2>What Our Users Say</h2>
+        <blockquote>"The Apple Watch Series 9 has been a game-changer for monitoring my fitness goals."</blockquote>
+        <blockquote>"I love how it keeps me connected without having to use my phone constantly."</blockquote>
+    </section>
+    <footer>
+        <p>Discover the future of health and connectivity with Apple Watch Series 9.</p>
+        <a href="#" class="cta-button">Order Now</a>
+    </footer>
+</body>
+</html>
